@@ -1,4 +1,4 @@
-#Jorge Belo
+# ★ Jorge Belo
 
 **`Olá, eu sou Jorge Belo! 👋 `**
 Atualmente, estou estudando Java com o objetivo de entrar no mercado de programação em 2025. Tenho interesse em desenvolver soluções eficientes e escaláveis, explorando as melhores práticas da linguagem e seu ecossistema.
@@ -6,8 +6,6 @@ Atualmente, estou estudando Java com o objetivo de entrar no mercado de programa
 Além de Java, também tenho experiência em logística, suporte técnico e front-end, o que me proporciona uma visão ampla sobre tecnologia e desenvolvimento de software. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
 <img height="250" width="270" src="https://imgur.com/AomF2K5.png"/>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -102,6 +100,7 @@ Além de Java, também tenho experiência em logística, suporte técnico e fron
 <br/>
 <br/>
 
+---
 ### 📊 Estatísticas
 
 <p>
@@ -119,6 +118,10 @@ Além de Java, também tenho experiência em logística, suporte técnico e fron
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgellbelo&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+
+
+
 
 
 
