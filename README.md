@@ -3,7 +3,7 @@
 **`Olá, eu sou Jorge Belo! 👋 `**
 Atualmente, estou estudando Front-End com o objetivo de entrar no mercado de programação em 2025. Tenho interesse em desenvolver soluções eficientes e escaláveis, explorando as melhores práticas da linguagem e seu ecossistema.
 
-Além de Java, também tenho experiência em logística, suporte técnico e front-end, o que me proporciona uma visão ampla sobre tecnologia e desenvolvimento de software. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+Além de front-end, também tenho experiência em logística, suporte técnico e front-end, o que me proporciona uma visão ampla sobre tecnologia e desenvolvimento de software. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
 <img height="250" width="270" src="https://imgur.com/AomF2K5.png"/>
 
