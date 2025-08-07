@@ -2,6 +2,7 @@
 
 **`Olá, eu sou Jorge Belo! 👋 `**
 Atualmente, estou estudando Dados com o objetivo de entrar no mercado de programação em 2025. Tenho interesse em desenvolver soluções eficientes e escaláveis, explorando as melhores práticas da linguagem e seu ecossistema.
+
 <img height="250" width="270" src="https://imgur.com/AomF2K5.png"/>
 
 ### 🤖 Linguagens e Tecnologias
