@@ -1,7 +1,7 @@
 # ★ Jorge Belo
 
 **`Olá, eu sou Jorge Belo! 👋 `**
-Atualmente, estou estudando Dados com o objetivo de entrar no mercado de programação em 2025. Tenho interesse em desenvolver soluções eficientes e escaláveis, explorando as melhores práticas da linguagem e seu ecossistema.
+Atualmente, estou estudando Java com o objetivo de entrar no mercado de programação em 2025. Tenho interesse em desenvolver soluções eficientes e escaláveis, explorando as melhores práticas da linguagem e seu ecossistema.
 
 
 
