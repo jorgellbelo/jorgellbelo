@@ -1,7 +1,8 @@
 # ★ Jorge Belo
 
 **`Olá, eu sou Jorge Belo! 👋 `**
-Atualmente, estou estudando dados com o objetivo de entrar no mercado de programação em 2025. Tenho interesse em desenvolver soluções eficientes e escaláveis, explorando as melhores práticas da linguagem e seu ecossistema.
+Atualmente estou estudando cursando Analise e Desenvolvimento de Sistemas - faculdade Universidade São Francisco (USF), com prévia de término para o final de 2027,
+com o objetivo de entrar no mercado de desenvolvimento em 2026.
 
 
 
