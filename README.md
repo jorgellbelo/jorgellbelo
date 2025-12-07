@@ -67,24 +67,6 @@ com o objetivo de entrar no mercado de desenvolvimento em 2026.
 <br/>
 <br/>
 
----
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jorgellbelo&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgellbelo&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 
 
