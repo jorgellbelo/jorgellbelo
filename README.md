@@ -7,7 +7,7 @@
 ---
 
 ### Sobre Mim
-Olá! Me chamo Jorge Belo. Sou apaixonado por tecnologia e atualmente foco meus estudos no desenvolvimento web e análise de dados.
+Olá! Me chamo Jorge Belo. Sou apaixonado por tecnologia e atualmente foco meus estudos em Ruby.
 - Cursando Análise e Desenvolvimento de Sistemas na Universidade São Francisco (USF).
 - Previsão de formatura: Dezembro de 2027.
 - Evoluindo constantemente através da formação em Ruby on Rails da OneBitCode.
