@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=CC342D&height=200&section=header&text=Jorge%20Luiz&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CC342D&height=200&section=header&text=Jorge%20Belo&fontSize=70&animation=fadeIn&fontColor=ffffff" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC342D&center=true&vCenter=true&width=435&lines=Desenvolvedor+Ruby+on+Rails;Estudante+de+ADS;Entusiasta+de+Dados)](https://git.io/typing-svg)
 </div>
@@ -7,10 +7,10 @@
 ---
 
 ### 👤 Sobre Mim
-Olá! Me chamo **Jorge Luiz**. Sou apaixonado por tecnologia e atualmente foco meus estudos no desenvolvimento web com o ecossistema Ruby. 
+Olá! Me chamo **Jorge Belo**. Sou apaixonado por tecnologia e atualmente foco meus estudos no desenvolvimento web e análise de dados.
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São Francisco (USF)**.
 - 📅 Previsão de formatura: **Dezembro de 2027**.
-- 🚀 Em transição/evolução constante através do curso da **OneBitCode**.
+- 🚀 Evoluindo constantemente através da formação em Ruby on Rails da **OneBitCode**.
 
 ---
 
@@ -41,14 +41,14 @@ Olá! Me chamo **Jorge Luiz**. Sou apaixonado por tecnologia e atualmente foco m
 
 ### 📚 Especialização OneBitCode (Trilha Ruby on Rails)
 
-Aqui estão as competências que venho lapidando:
+Domínio técnico desenvolvido durante a formação:
 
-- 💎 **Ruby Core:** Lógica de programação, sintaxe básica e tipos de dados (Strings, Arrays, Hashes).
-- ⚙️ **Estruturas:** Controle de fluxo (if/else/case), laços (each, while) e criação de métodos.
-- 🏗️ **POO:** Classes, Herança e Encapsulamento de forma prática.
-- 🌐 **Web:** Desenvolvimento com Rails (MVC), rotas, controllers e views dinâmicas.
-- 🔗 **APIs & DB:** Criação de APIs REST e manipulação de dados com Active Record.
-- 🧪 **Qualidade:** Testes automatizados e gerenciamento de dependências com Bundler/Gems.
+* 💎 **Lógica & Ruby Core:** Sintaxe básica, tipos de dados (Arrays, Hashes) e manipulação de arquivos.
+* ⚙️ **Controle de Fluxo:** Estruturas condicionais (if/else/case) e laços de repetição (each, while, for).
+* 🏗️ **Arquitetura & POO:** Programação Orientada a Objetos profunda (Herança, Encapsulamento) e padrão MVC.
+* 🌐 **Desenvolvimento Web:** Rotas, Controllers, Views e criação de APIs REST robustas.
+* 🔗 **Persistência:** Modelagem de dados com Active Record e gerenciamento de Gems com Bundler.
+* 🧪 **Qualidade de Código:** Testes automatizados com RSpec e versionamento profissional com Git.
 
 ---
 
@@ -63,7 +63,7 @@ Aqui estão as competências que venho lapidando:
 
 ### 📫 Conecte-se comigo
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL" target="_blank">
+  <a href="https://www.linkedin.com/in/jorge--belo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
@@ -71,5 +71,5 @@ Aqui estão as competências que venho lapidando:
 <br />
 
 <div align="center">
-  <sub>Copyright © 2024 - Jorge Luiz</sub>
+  <sub>Copyright © 2026 - Jorge Belo</sub>
 </div>
