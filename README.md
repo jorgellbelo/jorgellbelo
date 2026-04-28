@@ -6,15 +6,15 @@
 
 ---
 
-### 👤 Sobre Mim
-Olá! Me chamo **Jorge Belo**. Sou apaixonado por tecnologia e atualmente foco meus estudos no desenvolvimento web e análise de dados.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São Francisco (USF)**.
-- 📅 Previsão de formatura: **Dezembro de 2027**.
-- 🚀 Evoluindo constantemente através da formação em Ruby on Rails da **OneBitCode**.
+### Sobre Mim
+Olá! Me chamo Jorge Belo. Sou apaixonado por tecnologia e atualmente foco meus estudos no desenvolvimento web e análise de dados.
+- Cursando Análise e Desenvolvimento de Sistemas na Universidade São Francisco (USF).
+- Previsão de formatura: Dezembro de 2027.
+- Evoluindo constantemente através da formação em Ruby on Rails da OneBitCode.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
   
@@ -39,31 +39,31 @@ Olá! Me chamo **Jorge Belo**. Sou apaixonado por tecnologia e atualmente foco m
 
 ---
 
-### 📚 Especialização OneBitCode (Trilha Ruby on Rails)
+### Especialização OneBitCode (Trilha Ruby on Rails)
 
 Domínio técnico desenvolvido durante a formação:
 
-* 💎 **Lógica & Ruby Core:** Sintaxe básica, tipos de dados (Arrays, Hashes) e manipulação de arquivos.
-* ⚙️ **Controle de Fluxo:** Estruturas condicionais (if/else/case) e laços de repetição (each, while, for).
-* 🏗️ **Arquitetura & POO:** Programação Orientada a Objetos profunda (Herança, Encapsulamento) e padrão MVC.
-* 🌐 **Desenvolvimento Web:** Rotas, Controllers, Views e criação de APIs REST robustas.
-* 🔗 **Persistência:** Modelagem de dados com Active Record e gerenciamento de Gems com Bundler.
-* 🧪 **Qualidade de Código:** Testes automatizados com RSpec e versionamento profissional com Git.
+* Lógica e Ruby Core: Sintaxe básica, tipos de dados (Arrays, Hashes) e manipulação de arquivos.
+* Controle de Fluxo: Estruturas condicionais (if/else/case) e laços de repetição (each, while, for).
+* Arquitetura e POO: Programação Orientada a Objetos profunda (Herança, Encapsulamento) e padrão MVC.
+* Desenvolvimento Web: Rotas, Controllers, Views e criação de APIs REST robustas.
+* Persistência: Modelagem de dados com Active Record e gerenciamento de Gems com Bundler.
+* Qualidade de Código: Testes automatizados com RSpec e versionamento profissional com Git.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgellbelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgellbelo&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-### 📫 Conecte-se comigo
+### Conecte-se comigo
 <div align="center">
-  <a href="https://www.linkedin.com/in/jorge--belo/" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-PERFIL" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
