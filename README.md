@@ -7,7 +7,7 @@
 ---
 
 ### Sobre Mim
-Olá! Me chamo Jorge Belo. Sou apaixonado por tecnologia e atualmente foco meus estudos em Ruby.
+Olá! Me chamo Jorge Belo. Sou apaixonado por tecnologia e atualmente foco meus estudos no desenvolvimento web e análise de dados.
 - Cursando Análise e Desenvolvimento de Sistemas na Universidade São Francisco (USF).
 - Previsão de formatura: Dezembro de 2027.
 - Evoluindo constantemente através da formação em Ruby on Rails da OneBitCode.
@@ -63,7 +63,7 @@ Domínio técnico desenvolvido durante a formação:
 
 ### Conecte-se comigo
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL" target="_blank">
+  <a href="https://www.linkedin.com/in/jorge--belo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
