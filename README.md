@@ -1,48 +1,75 @@
-# Olá,
-
-Busco constantemente transformar problemas complexos em soluções eficientes através do código. Atualmente, foco meus estudos no ecossistema Ruby on Rails e na análise de dados.
-
----
-
-### 🎓 Formação Acadêmica
-- **Curso:** Análise e Desenvolvimento de Sistemas
-- **Instituição:** Universidade São Francisco (USF)
-- **Previsão de Término:** Dezembro de 2027
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CC342D&height=200&section=header&text=Jorge%20Luiz&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC342D&center=true&vCenter=true&width=435&lines=Desenvolvedor+Ruby+on+Rails;Estudante+de+ADS;Entusiasta+de+Dados)](https://git.io/typing-svg)
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-| Linguagem & Framework | Banco de Dados | Testes & Ferramentas |
-| :---: | :---: | :---: |
-| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![ActiveRecord](https://img.shields.io/badge/Active_Record-ORM-red?style=for-the-badge) | | ![RSpec](https://img.shields.io/badge/RSpec-Test-green?style=for-the-badge) |
+### 👤 Sobre Mim
+Olá! Me chamo **Jorge Luiz**. Sou apaixonado por tecnologia e atualmente foco meus estudos no desenvolvimento web com o ecossistema Ruby. 
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade São Francisco (USF)**.
+- 📅 Previsão de formatura: **Dezembro de 2027**.
+- 🚀 Em transição/evolução constante através do curso da **OneBitCode**.
 
 ---
 
-### 📖 Aprendizados (OneBitCode - Ruby on Rails)
+### 🛠️ Tecnologias & Ferramentas
 
-Através da formação na OneBitCode, desenvolvi habilidades sólidas em:
+<div align="center">
+  
+  **Linguagens e Frameworks**
+  
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  ![ActiveRecord](https://img.shields.io/badge/Active_Record-ORM-red?style=for-the-badge)
+  
+  **Banco de Dados**
+  
+  ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  **Testes e Versionamento**
+  
+  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![RSpec](https://img.shields.io/badge/RSpec-Test-green?style=for-the-badge)
 
-- **Fundamentos:** Lógica de programação com Ruby e sintaxe básica.
-- **Tipos de Dados:** Manipulação de Strings, Números, Arrays e Hashes.
-- **Estruturas:** Controle (if, else, case) e Laços de repetição (while, for, each).
-- **POO:** Programação Orientada a Objetos (Classes, Herança, Encapsulamento).
-- **Web:** Desenvolvimento com Ruby on Rails e arquitetura MVC (Model, View, Controller).
-- **Dados & Persistência:** Banco de dados, ORM com Active Record e manipulação de arquivos.
-- **Ecosistema:** Gerenciamento de dependências com Bundler (Gems).
-- **Avançado:** Criação de APIs REST e Testes Automatizados com RSpec.
-- **Versionamento:** Fluxo de trabalho profissional com Git e GitHub.
+</div>
 
 ---
 
-### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical)
+### 📚 Especialização OneBitCode (Trilha Ruby on Rails)
+
+Aqui estão as competências que venho lapidando:
+
+- 💎 **Ruby Core:** Lógica de programação, sintaxe básica e tipos de dados (Strings, Arrays, Hashes).
+- ⚙️ **Estruturas:** Controle de fluxo (if/else/case), laços (each, while) e criação de métodos.
+- 🏗️ **POO:** Classes, Herança e Encapsulamento de forma prática.
+- 🌐 **Web:** Desenvolvimento com Rails (MVC), rotas, controllers e views dinâmicas.
+- 🔗 **APIs & DB:** Criação de APIs REST e manipulação de dados com Active Record.
+- 🧪 **Qualidade:** Testes automatizados e gerenciamento de dependências com Bundler/Gems.
 
 ---
 
-### 📫 Como me encontrar
-- **LinkedIn:** [Jorge Lima](https://www.linkedin.com/in/jorge--belo/)
-- **Email:** seuemail@exemplo.com
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 📫 Conecte-se comigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU-PERFIL" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Copyright © 2024 - Jorge Luiz</sub>
+</div>
