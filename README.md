@@ -1,17 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=200&section=header&text=Jorge%20Belo&fontSize=70&animation=fadeIn&fontColor=ffffff" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007396&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java+Back-end;Entusiasta+de+An%C3%A1lise+de+Dados;Estudante+de+ADS)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007396&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java+Back-end;Estudante+de+ADS)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ### Sobre Mim
-Olá! Me chamo Jorge Belo. Sou desenvolvedor com foco no ecossistema Java, especializado na construção de APIs robustas e escaláveis, integrando conceitos de engenharia de software com análise de dados para gerar valor ao negócio.
+Olá! Me chamo Jorge Belo. Sou desenvolvedor com foco no ecossistema Java, especializado na construção de APIs robustas e escaláveis para gerar valor ao negócio.
 
 - Cursando Análise e Desenvolvimento de Sistemas (USF) - Formatura em Dezembro de 2027.
-- Aplicação rigorosa de princípios SOLID e Clean Code no ciclo de desenvolvimento.
-- Experiência em extração e manipulação de dados com Python e SQL para suporte analítico.
+- Focado no desenvolvimento de soluções back-end utilizando tecnologias modernas de mercado.
 
 ---
 
@@ -24,20 +23,6 @@ Olá! Me chamo Jorge Belo. Sou desenvolvedor com foco no ecossistema Java, espec
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  
-  **Dados e Inteligência**
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-  
-  **Ferramentas de Desenvolvimento**
-  
-  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-  ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -48,7 +33,7 @@ Olá! Me chamo Jorge Belo. Sou desenvolvedor com foco no ecossistema Java, espec
 * **Ecossistema Java**: Desenvolvimento com Java 17+, Streams API, Optionals e uso de Records para código conciso.
 * **Spring Framework**: Implementação de serviços com Spring Boot, Spring Data JPA e segurança de APIs com Spring Security (JWT).
 * **Design de APIs**: Criação de contratos RESTful, gestão de códigos de status HTTP e documentação técnica com Swagger/OpenAPI.
-* **Gerenciamento de Banco de Dados**: Modelagem relacional, otimização de consultas SQL e controle de transações.
+* **Gerenciamento de Banco de Dados**: Modelagem relacional, otimização de consultas SQL e integração com bancos de dados.
 * **Qualidade e Testes**: Escrita de testes unitários com JUnit 5 e utilização de mocks com Mockito para garantir a confiabilidade do código.
 * **Gestão de Dependências**: Experiência no gerenciamento de bibliotecas e automação de builds com Maven.
 
