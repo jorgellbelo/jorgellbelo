@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=CC342D&height=200&section=header&text=Jorge%20Belo&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=200&section=header&text=Jorge%20Belo&fontSize=70&animation=fadeIn&fontColor=ffffff" />
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC342D&center=true&vCenter=true&width=435&lines=Desenvolvedor+Ruby+on+Rails;Estudante+de+ADS;Entusiasta+de+Dados)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007396&center=true&vCenter=true&width=435&lines=Software+Engineer+Intern+/+Jr;Java+Back-end+Developer;Data+Analysis+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ### Sobre Mim
-Olá! Me chamo Jorge Belo. Sou apaixonado por tecnologia e atualmente foco meus estudos no desenvolvimento web e análise de dados.
-- Cursando Análise e Desenvolvimento de Sistemas na Universidade São Francisco (USF).
-- Previsão de formatura: Dezembro de 2027.
-- Evoluindo constantemente através da formação em Ruby on Rails da OneBitCode.
+Olá! Me chamo Jorge Belo. Atualmente foco meu desenvolvimento na construção de sistemas escaláveis e resilientes utilizando o ecossistema Java, unindo a robustez do back-end com a inteligência da análise de dados.
+
+- Cursando Análise e Desenvolvimento de Sistemas (USF) - Formatura em Dezembro de 2027.
+- Foco em Arquitetura de Software, aplicando princípios de Clean Code e SOLID.
+- Diferencial em Data Analytics, utilizando Python e SQL para suporte à tomada de decisão.
 
 ---
 
@@ -18,41 +19,43 @@ Olá! Me chamo Jorge Belo. Sou apaixonado por tecnologia e atualmente foco meus 
 
 <div align="center">
   
-  **Linguagens e Frameworks**
+  **Back-end Stack**
   
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-  ![ActiveRecord](https://img.shields.io/badge/Active_Record-ORM-red?style=for-the-badge)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
-  **Banco de Dados**
+  **Data & Intelligence**
   
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
   
-  **Testes e Versionamento**
+  **DevOps & Tools**
   
   ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![RSpec](https://img.shields.io/badge/RSpec-Test-green?style=for-the-badge)
+  ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+  ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-### Especialização OneBitCode (Trilha Ruby on Rails)
+### Core Competencies (Junior Level)
 
-Domínio técnico desenvolvido durante a formação:
-
-* Lógica e Ruby Core: Sintaxe básica, tipos de dados (Arrays, Hashes) e manipulação de arquivos.
-* Controle de Fluxo: Estruturas condicionais (if/else/case) e laços de repetição (each, while, for).
-* Arquitetura e POO: Programação Orientada a Objetos profunda (Herança, Encapsulamento) e padrão MVC.
-* Desenvolvimento Web: Rotas, Controllers, Views e criação de APIs REST robustas.
-* Persistência: Modelagem de dados com Active Record e gerenciamento de Gems com Bundler.
-* Qualidade de Código: Testes automatizados com RSpec e versionamento profissional com Git.
+* **Java Ecosystem**: Domínio de Java 17+, Streams API, Optionals e Programação Multithread básica.
+* **Spring Framework**: Experiência com Spring Boot, Spring Data JPA, Spring Security (JWT) e Spring Validation.
+* **API Design**: Construção de APIs RESTful seguindo o modelo de maturidade de Richardson e documentação com Swagger (OpenAPI).
+* **Database Management**: Modelagem de dados (DER), normalização, escrita de queries complexas e integração com bancos relacionais.
+* **Testing Culture**: Desenvolvimento orientado a testes com JUnit 5 e Mockito, garantindo cobertura e confiabilidade.
+* **Infrastructure**: Noções de Docker (containerização), CI/CD básico e versionamento estratégico com Git Flow.
 
 ---
 
-### Estatísticas do GitHub
+### Estatísticas e Atividade
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgellbelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
